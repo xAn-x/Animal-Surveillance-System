@@ -1,0 +1,6 @@
+Model.zip
+data
+processed_data
+.ipynb_checkpoints
+yolo_venv
+model

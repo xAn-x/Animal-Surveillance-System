@@ -1,0 +1,5 @@
+train: processed_data/train
+val: processed_data/valid
+test: processed_data/test # test images (optional)
+nc: 10
+names: ['fox', 'skunk', 'racoon', 'cow', 'chicken', 'person', 'horse', 'cat', 'dog', 'goat']
